@@ -2,7 +2,7 @@ import psycopg2
 from telebot import TeleBot
 from telebot.types import Message
 import datetime
-bot = TeleBot("5465553669:AAFXOvpFc2UKnCcJUhqUJ1dTzhMoTDSSal8")
+bot = TeleBot("token")
 
 
 
